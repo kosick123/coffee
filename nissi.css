@@ -1,0 +1,76 @@
+body{
+    background-color: #3b141c;
+}
+
+.head{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: white;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    margin-right: 50px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 40px;
+}
+
+.body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.img1{
+    width: 350px;
+    height: 350px;
+}
+.btn1{
+    border-radius: 30px;
+    background-color: yellow;
+    border: transparent;
+    height: 30px;
+    width: 100px;
+
+}
+.btn2{
+    border-radius: 30px;
+background-color: transparent;
+border: 1px solid white;
+height: 30px;
+width: 100px;
+color: white;
+}
+
+.h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.h5{
+    color: #f39613;
+    font-family: "miniver", sans-serif;
+}
+.para{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nissi{
+    color: white;
+}
+.neha{
+    margin-right: 70px;
+}
